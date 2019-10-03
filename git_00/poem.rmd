@@ -1,0 +1,64 @@
+---
+title: "git_00"
+author: Erica Sanchez
+date: 09/23/2019
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Build a Poem with a sequence of commits to the master branch.
+Our project will be done using several commits to the master branch.
+
+Commit at each point as required by the assignment! Finally you can drag/drop the files into Canvas or you will push this repository to you github account, you can send me the URL.
+
+<!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
+you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
+
+## First Verse 
+<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+ 
+How doth the little crocodile  
+Improve his shining tail,  
+And pour the waters of the Nile  
+On every golden scale!  
+How cheerfully he seems to grin  
+
+## Second Verse
+<!--Put the first five lines of a poem by Robert Frost here!-->
+
+Whose woods these are I think I know.     
+His house is in the village though;     
+He will not see me stopping here   
+To watch his woods fill up with snow.   
+My little horse must think it queer   
+
+## Third Verse
+<!--Put the first two verses of The Walrus and the Carpenter here!-->
+
+The sun was shining on the sea,  
+Shining with all his might:  
+He did his very best to make  
+The billows smooth and bright--  
+And this was odd, because it was  
+The middle of the night.  
+
+The moon was shining sulkily,  
+Because she thought the sun  
+Had got no business to be there  
+After the day was done--  
+"It's very rude of him," she said,  
+"To come and spoil the fun!"  
+
+## Last Verse
+<!--Put a short poem of your choice 8-20 lines,here!-->
+
+The buzz saw snarled and rattled in the yard  
+And made dust and dropped stove-length sticks of wood,  
+Sweet-scented stuff when the breeze drew across it.  
+And from there those that lifted eyes could count  
+Five mountain ranges one behind the other  
+Under the sunset far into Vermont.  
+And the saw snarled and rattled, snarled and rattled,  
+As it ran light, or had to bear a load.  
